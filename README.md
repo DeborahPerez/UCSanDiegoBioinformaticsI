@@ -1,2 +1,2 @@
-# Algorithms_for_DNA_Sequencing
-Homework in progress for coursera course: Algorithms For DNA Sequencing
+# UCSanDiegoBioinformaticsI
+Scripts written for the "Finding Hidden Messages in DNA (Bioinformatics I)" course offered by UCSanDiego on Coursera.org 
